@@ -102,6 +102,8 @@
 ||affiliate*.*^
 ||retargeting*.*^
 ||remarketing*.*^
+||observability*.*^
+||feedback*.*^
 
 ! Google stuff
 ||gvt2.com^
@@ -129,6 +131,7 @@
 ! Googleapis
 ||admob.googleapis.com^
 ||audit.googleapis.com^
+||jnn-pa.googleapis.com^
 ||surveys.googleapis.com^
 ||pagespeedmobilizer.com^
 ||logging.googleapis.com^

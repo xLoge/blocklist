@@ -23,6 +23,8 @@
 ! Samsung
 ||samsungads.com^
 ||samsungcloud.tv^
+||samsungacr.com^
+||samsungadhub.com^
 
 ! LG
 ||www.ueiwsp.com^
@@ -53,7 +55,7 @@
 ||appsflyersdk.com^
 ||yazio-analytics.com^
 ||usercentrics.*^
-||sentry.io^
+||sentry.*^
 
 ||app-analytics-services.com^
 ||mqtt-mini.facebook.com^
@@ -64,7 +66,6 @@
 ||graph.instagram.com^
 ||xp.apple.com^
 ||browser-intake-datadoghq.com^
-||sentry.c24.de^
 ||nr-data.net^
 ||adjust.*^
 ||h5v.eu^
@@ -73,7 +74,9 @@
 ||ads.*.*^
 ||ad.*.*^
 ||telemetry*.*^
-||telemetry.*.*^
+||telemetry*.*.*^
+||tracking*.*^
+||tracking*.*.*^
 
 ! Google stuff
 ||gvt2.com^

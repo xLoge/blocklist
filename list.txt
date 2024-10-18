@@ -73,11 +73,7 @@
 ||h5v.eu^
 
 ! General
-||ads.*.*^
-||ads-*.*.*^
-||-ads.*.*^
-||ad-*.*.*^
-||-ad.*.*^
+||*ads.*.*^
 ||*adservices*.*^
 ||*log*.*.*^
 ||*sentry*.*^

@@ -73,6 +73,7 @@
 ||ads.*.*^
 ||ad.*.*^
 ||telemetry*.*^
+||telemetry.*.*^
 
 ! Google stuff
 ||gvt2.com^

@@ -111,6 +111,8 @@
 ||remarketing*.*^
 ||observability*.*^
 ||feedback*.*^
+||events*.*^
+||event*.*^
 
 ! Google stuff
 ||gvt2.com^

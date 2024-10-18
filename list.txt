@@ -118,6 +118,7 @@
 ||crashlytics.com^
 ||googleadservices.com^
 ||googlesyndication.com^
+||googleanalytics.com^
 ||google-analytics.com^
 ||android.apis.google.com^
 ||doubleclick.*^

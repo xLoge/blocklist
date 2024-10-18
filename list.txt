@@ -86,6 +86,22 @@
 ||cookie*.*^
 ||pixel*.*^
 ||beacon*.*^
+||advertising*.*^
+||campaign*.*^
+||conversion*.*^
+||referral*.*^
+||clickstream*.*^
+||fingerprint*.*^
+||geo*.*^
+||sessionid*.*^
+||userid*.*^
+||widget*.*^
+||social*.*^
+||share*.*^
+||thirdparty*.*^
+||affiliate*.*^
+||retargeting*.*^
+||remarketing*.*^
 
 ! Google stuff
 ||gvt2.com^

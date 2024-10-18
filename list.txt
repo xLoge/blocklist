@@ -74,9 +74,18 @@
 ||ads.*.*^
 ||ad.*.*^
 ||telemetry*.*^
-||telemetry*.*.*^
 ||tracking*.*^
-||tracking*.*.*^
+||analytics*.*^
+||metrics*.*^
+||stats*.*^
+||performance*.*^
+||usage*.*^
+||impression*.*^
+||behavior*.*^
+||log*.*^
+||cookie*.*^
+||pixel*.*^
+||beacon*.*^
 
 ! Google stuff
 ||gvt2.com^

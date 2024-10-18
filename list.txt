@@ -32,7 +32,9 @@
 ||www.ueiwsp.com^
 
 ! Meta
+||mqtt-mini.facebook.com^
 ||graph.facebook.com^
+||graph.instagram.com^
 ||web.facebook.com^
 ||dit.whatsapp.net^
 
@@ -46,6 +48,7 @@
 
 ! Apple
 ||ca.iadsdk.apple.com^
+||xp.apple.com^
 
 ! Spotify
 ||audio-akp-spotify-com.akamaized.net^
@@ -59,15 +62,11 @@
 ||usercentrics.*^
 ||freshmarketer.com^
 ||bugsnag.com^
-
 ||app-analytics-services.com^
-||mqtt-mini.facebook.com^
 ||analytics.query.yahoo.com^
 ||device-api.asnapieu.com^
 ||infinitedata-pa.googleapis.com^
 ||stats.gc.apple.com^
-||graph.instagram.com^
-||xp.apple.com^
 ||browser-intake-datadoghq.com^
 ||nr-data.net^
 ||adjust.*^
@@ -79,6 +78,7 @@
 ||-ads.*.*^
 ||ad-*.*.*^
 ||-ad.*.*^
+||log*.*^
 ||sentry*.*^
 ||telemetry*.*^
 ||tracking*.*^
@@ -89,7 +89,6 @@
 ||usage*.*^
 ||impression*.*^
 ||behavior*.*^
-||log*.*^
 ||cookie*.*^
 ||pixel*.*^
 ||beacon*.*^
@@ -113,6 +112,7 @@
 ||feedback*.*^
 ||events*.*^
 ||event*.*^
+||unityads*.*^
 
 ! Google stuff
 ||gvt2.com^

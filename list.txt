@@ -1,27 +1,52 @@
 ! Title: Loge Ads & Privacy
-||logs.netflix.com^
-||ichnaea.netflix.com^
-||nrdp.nccp.netflix.com^
+
+! Netlfix
+||*.netflix.com^
+!||logs.netflix.com^
+!||ichnaea.netflix.com^
+!||nrdp.nccp.netflix.com^
+
+! Amazon
 ||advertising.amazon.*^
 ||device-metrics-*.amazon.*^
 ||msh.amazon.co.uk^
-||secureir.ebaystatic.com^
-||srv.*.ebayrtm.*^
 ||a2z.com^
 ||unagi-eu.amazon.com^
 ||aax-*.amazon-adsystem.com^
 ||aviary.amazon.*^
 ||mads-*.amazon.*^
+
+! Ebay
+||secureir.ebaystatic.com^
+||srv.*.ebayrtm.*^
+
+! Samsung
+||samsungads.com^
 ||samsungcloud.tv^
+
+! LG
 ||www.ueiwsp.com^
+
+! Meta
 ||graph.facebook.com^
 ||web.facebook.com^
-||sdkconfig.ad.intl.xiaomi.com^
-||ca.iadsdk.apple.com^
-||crashlyticsreports-pa.googleapis.com^
-||firebaselogging.googleapis.com^
 ||dit.whatsapp.net^
+
+! Xiaomi
+||sdkconfig.ad.intl.xiaomi.com^
+||api.gallery.intl.miui.com^
+||flash.sec.intl.miui.com^
+||intl.miui.com^
+||intl.*.miui.com^
+||ad.*.xiaomi.com^
+
+! Apple
+||ca.iadsdk.apple.com^
+
+! Spotify
 ||audio-akp-spotify-com.akamaized.net^
+
+! Other
 ||criteo.com^
 ||pushwoosh.com^
 ||survicate.com^
@@ -29,7 +54,7 @@
 ||yazio-analytics.com^
 ||usercentrics.*^
 ||sentry.io^
-||samsungads.com^
+
 ||app-analytics-services.com^
 ||mqtt-mini.facebook.com^
 ||analytics.query.yahoo.com^
@@ -38,22 +63,18 @@
 ||stats.gc.apple.com^
 ||graph.instagram.com^
 ||xp.apple.com^
-||ad.*.xiaomi.com^
-
-||voilatile-pa.googleapis.com^
-||api.gallery.intl.miui.com^
-||firebaseinstallations.googleapis.com^
-||flash.sec.intl.miui.com^
-||intl.miui.com^
-||intl.*.miui.com^
 ||browser-intake-datadoghq.com^
 ||sentry.c24.de^
 ||nr-data.net^
 ||adjust.*^
 ||h5v.eu^
 
-! Google stuff
+! General
+||ads.*.*^
+||ad.*.*^
+||telemetry*.*^
 
+! Google stuff
 ||gvt2.com^
 ||gvt3.com^
 
@@ -70,39 +91,50 @@
 ||jnn-pa.googleapis.*^
 ||googletagmanager.*^
 
+! Google China
+||googleads-cn.com^
+||googleadservices-cn.com^
+||googleadsserving.cn^
+||googlevads-cn.com^
+
+! Googleapis
 ||admob.googleapis.com^
-||audit.googleapis.com
+||audit.googleapis.com^
 ||surveys.googleapis.com^
 ||pagespeedmobilizer.com^
 ||logging.googleapis.com^
-||cloudaudit.googleapis.com
-||cloudtrace.googleapis.com
+||cloudaudit.googleapis.com^
+||cloudtrace.googleapis.com^
 ||monitoring.googleapis.com^
 ||tagmanager.googleapis.com^
-||adsensehost.googleapis.com
+||adsensehost.googleapis.com^
 ||recommender.googleapis.com^
 ||stackdriver.googleapis.com^
 ||userlocation.googleapis.com^
+||voilatile-pa.googleapis.com^
 ||dfareporting.googleapis.com^
-||analyticshub.googleapis.com
-||cloudprofiler.googleapis.com
-||analyticsdata.googleapis.com
+||analyticshub.googleapis.com^
+||cloudprofiler.googleapis.com^
+||analyticsdata.googleapis.com^
 ||partners-json.googleapis.com^
 ||meshtelemetry.googleapis.com^
-||chromeuxreport.googleapis.com
-||analyticsadmin.googleapis.com
+||chromeuxreport.googleapis.com^
+||analyticsadmin.googleapis.com^
 ||pagespeedonline.googleapis.com^
+||firebaselogging.googleapis.com^
 ||firewallinsights.googleapis.com^
-||cloudlatencytest.googleapis.com
+||cloudlatencytest.googleapis.com^
 ||doubleclicksearch.googleapis.com^
 ||gapromomanager-pa.googleapis.com^
-||appenginereporting.googleapis.com
-||analyticsreporting.googleapis.com
+||appenginereporting.googleapis.com^
+||analyticsreporting.googleapis.com^
 ||timeseriesinsights.googleapis.com^
 ||firebasepredictions.googleapis.com^
 ||wirelessdevicestats.googleapis.com^
 ||federatedcompute-pa.googleapis.com^
 ||recommendationengine.googleapis.com^
 ||doubleclickbidmanager.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||crashlyticsreports-pa.googleapis.com^
 ||mobilenetworkscoring-pa.googleapis.com^
 ||content-partnersbadge-pa.googleapis.com^

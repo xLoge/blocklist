@@ -16,7 +16,8 @@
 ||aviary.amazon.*^
 ||mads-*.amazon.*^
 ||adtago.s3.amazonaws.com^
-||advice-ads.s3.amazonaws.com
+||advice-ads.s3.amazonaws.com^
+||trace-server.prod-clustered.bugs.firebat.prime-video.amazon.dev^
 
 ! Ebay
 ||secureir.ebaystatic.com^

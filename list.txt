@@ -57,7 +57,8 @@
 ||appsflyersdk.com^
 ||yazio-analytics.com^
 ||usercentrics.*^
-||sentry.*^
+||freshmarketer.com^
+||bugsnag.com^
 
 ||app-analytics-services.com^
 ||mqtt-mini.facebook.com^
@@ -74,7 +75,11 @@
 
 ! General
 ||ads.*.*^
-||ad.*.*^
+||ads-*.*.*^
+||-ads.*.*^
+||ad-*.*.*^
+||-ad.*.*^
+||sentry*.*^
 ||telemetry*.*^
 ||tracking*.*^
 ||analytics*.*^

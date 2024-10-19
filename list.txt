@@ -101,7 +101,7 @@
 ||*campaign*.*^
 ||*conversion*.*^
 ||*referral*.*^
-||*clickstream*.*^
+||*click*.*^
 ||*fingerprint*.*^
 ||*geo*.*.*^
 ||*sessionid*.*^

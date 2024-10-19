@@ -89,6 +89,7 @@
 ||media.net^
 ||trk.pinterest.com^
 @@||*download.*.*^
+@@||*upload.*.*^
 
 ! General
 ||*-ads-*.*^

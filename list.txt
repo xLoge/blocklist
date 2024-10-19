@@ -28,6 +28,7 @@
 ||samsungcloud.tv^
 ||samsungacr.com^
 ||samsungadhub.com^
+||2o7.net^
 
 ! LG
 ||www.ueiwsp.com^

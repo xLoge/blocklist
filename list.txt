@@ -76,9 +76,10 @@
 ||luckyorange.net^
 
 ! General
+||*-ads-*.*^
+||ads-*.*^
 ||*-ads.*^
-||*ads-.*^
-||*ad.*.*^
+||*ad*.*.*^
 ||*adservices*.*^
 ||*log*.*.*^
 ||*sentry*.*^

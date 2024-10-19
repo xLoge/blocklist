@@ -86,6 +86,7 @@
 ||*analytics*.*^
 ||*metric*.*^
 ||*metrica*.*^
+||*metrika*.*^
 ||*stats*.*^
 ||*performance*.*^
 ||*usage*.*^

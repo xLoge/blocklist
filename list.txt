@@ -187,5 +187,3 @@
 ||content-partnersbadge-pa.googleapis.com^
 
 ! Unblock
-@@||weather-analytics-events.apple.com^
-

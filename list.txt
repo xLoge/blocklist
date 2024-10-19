@@ -1,10 +1,10 @@
 ! Title: Loge Ads & Privacy
 
 ! Netlfix
-||*.netflix.com^
-!||logs.netflix.com^
-!||ichnaea.netflix.com^
-!||nrdp.nccp.netflix.com^
+!||*.netflix.com^
+||logs.netflix.com^
+||ichnaea.netflix.com^
+||nrdp.nccp.netflix.com^
 
 ! Amazon
 ||advertising.amazon.*^

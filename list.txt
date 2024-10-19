@@ -82,10 +82,12 @@
 ||nr-data.net^
 ||adjust.*^
 ||h5v.eu^
-||luckyorange.net^
+||luckyorange.*^
+||mouseflow.*^
+||hotjar.*^
+||wd.adcolony.com^
+||media.net^
 ||trk.pinterest.com^
-||mouseflow.com^
-||hotjar.com^
 
 ! General
 ||*-ads-*.*^

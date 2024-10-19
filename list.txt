@@ -72,11 +72,12 @@
 ||nr-data.net^
 ||adjust.*^
 ||h5v.eu^
+||luckyorange.net^
 
 ! General
 ||*-ads.*^
 ||*ads-.*^
-||*ads.*.*^
+||*ad.*.*^
 ||*adservices*.*^
 ||*log*.*.*^
 ||*sentry*.*^
@@ -181,3 +182,7 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||mobilenetworkscoring-pa.googleapis.com^
 ||content-partnersbadge-pa.googleapis.com^
+
+! Unblock
+@@||weather-analytics-events.apple.com^
+

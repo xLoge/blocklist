@@ -39,6 +39,11 @@
 ||graph.instagram.com^
 ||web.facebook.com^
 ||dit.whatsapp.net^
+||an.facebook.com^
+
+! Yahoo
+||udc.yahoo.com^
+||udcm.yahoo.com^
 
 ! Xiaomi
 ||sdkconfig.ad.intl.xiaomi.com^
@@ -47,6 +52,10 @@
 ||intl.miui.com^
 ||intl.*.miui.com^
 ||ad.*.xiaomi.com^
+||data.mistat.*.com^
+
+! Huawei
+||grs.hicloud.com^
 
 ! Apple
 ||ca.iadsdk.apple.com^
@@ -74,6 +83,9 @@
 ||adjust.*^
 ||h5v.eu^
 ||luckyorange.net^
+||trk.pinterest.com^
+||mouseflow.com^
+||hotjar.com^
 
 ! General
 ||*-ads-*.*^
